@@ -1,0 +1,38 @@
+#crazy-fonts {
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+left:150px;
+color: white
+}
+
+body{
+ 
+  background: url("https://wallpaperaccess.com/full/660883.jpg"), no-repeat;
+  text-align:center;
+  
+}
+
+h1{
+  color:black;
+   border-width: 10px,5px ,20px,1px; }
+
+a{ color:black;
+margin: 20px
+}
+h4{
+  position: relative;
+  Right:120px;
+  Left:100px;
+  border: red solid; 
+  boder-collaspe:seperate;
+  padding:2px;
+  margin: 30px
+
+}
+
+
